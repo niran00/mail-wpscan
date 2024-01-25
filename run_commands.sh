@@ -5,7 +5,7 @@ WPCAN_PATH="/usr/local/bin/wpscan"
 PHP_PATH="/Applications/MAMP/bin/php/php7.4.33/bin/php"  # Replace {version} with your PHP version
 
 # API_TOKEN="0rCaVkwpKQvatBsg66zapRorZKtU4qWwDxV4j5OCwwg"
-SITE_URL="zeracafe.ca"
+SITE_URL=""
 
 # Navigate to the script directory
 cd /Applications/MAMP/htdocs/mail-wpscan
