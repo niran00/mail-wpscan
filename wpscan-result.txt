@@ -13,7 +13,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 [32m[+][0m URL: https://zeracafe.ca/ [35.209.222.44]
-[32m[+][0m Started: Thu Jan 25 14:15:04 2024
+[32m[+][0m Started: Thu Jan 25 14:19:04 2024
 
 Interesting Finding(s):
 
@@ -204,4 +204,4 @@ Interesting Finding(s):
 
 [32m[+][0m Enumerating Config Backups (via Passive and Aggressive Methods)
 
- Checking Config Backups -: |========================================
+ Checking Config Backups -: |=============================================

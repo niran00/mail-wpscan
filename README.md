@@ -8,7 +8,7 @@ Automated wpscan results to email.
 2.Run composer install
 3.Go to the run_commands.sh configure the correct paths and insert your site url
 4.Go to send_email.php config your smtp (In my case mail.smtp2go.com) and your sender/recipient options
-5.Run a cronjob on run_commands.sh
+5.Run a cronjob on path-to-project/run_commands.sh > path-to-project/logfile.log 2>&1
 
 ## Usage
 
